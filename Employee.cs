@@ -9,7 +9,6 @@ namespace PayrollProgram
         public string name;
         public string position;
         public int salary;
-        public bool isPaid = false;
 
         public Employee(string name, string position, int salary)
         {
